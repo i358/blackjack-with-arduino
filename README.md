@@ -13,14 +13,14 @@ In this blackjack simulation, you, the player, interact with the game through a 
    - Turn the potentiometer right to increase analog input for "Hit."
 
 2. **Button Confirmation:**
-   - Press the button to confirm your selected action.
+   - Press and hold the button to confirm your selected action. Release the button once you've made your choice.
 
 3. **Scoring:**
    - Exceeding 21 results in a bust, leading to the dealer's turn.
    - If both you and the dealer bust, it's a double bust.
    - Ties occur when both scores are equal.
    - To win, your score must surpass the dealer's without busting.
-
+     
 ## System Logic
 
 The game's logic revolves around the decision-making process driven by the player's interaction with the potentiometer and button. The potentiometer sends analog data, and the system interprets this data to determine the player's choice. Here's a breakdown of the system's logic:
@@ -87,4 +87,3 @@ Now, you're all set to use the `LiquidCrystal_I2C` library in your Arduino proje
 ## Code Snippet
 
 ```cpp
-// Insert relevant code snippets here
