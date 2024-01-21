@@ -73,13 +73,13 @@ This project uses the `LiquidCrystal_I2C` library for I2C communication with the
 
 ### Library Files:
 
-- [LiquidCrystal_I2C.h](libraries/LiquidCrystal_I2C.h)
+- [LiquidCrystal_I2C.h](libraries/LiquidCrystal_I2C.zip)
 
 To include the library in your Arduino project, follow these steps:
 
 1. Open the Arduino IDE.
 2. Go to Sketch -> Include Library -> Add .ZIP Library.
 3. Select the `libraries` folder from this repository.
-4. Choose the `LiquidCrystal_I2C.h` file and click "Open."
+4. Choose the `LiquidCrystal_I2C.zip` file and click "Open."
 
 Now, you're all set to use the `LiquidCrystal_I2C` library in your Arduino project.
