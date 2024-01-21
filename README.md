@@ -83,7 +83,3 @@ To include the library in your Arduino project, follow these steps:
 4. Choose the `LiquidCrystal_I2C.h` file and click "Open."
 
 Now, you're all set to use the `LiquidCrystal_I2C` library in your Arduino project.
-
-## Code Snippet
-
-```cpp
