@@ -72,7 +72,7 @@ This project uses the `LiquidCrystal_I2C` library for I2C communication with the
 
 ### Library Files:
 
-- [LiquidCrystal_I2C](libraries/LiquidCrystal_I2C.zip)
+- [LiquidCrystal_I2C](libraries/Arduino-LiquidCrystal-I2C.zip)
 
 To include the library in your Arduino project, follow these steps:
 
