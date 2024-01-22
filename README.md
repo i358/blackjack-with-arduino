@@ -41,13 +41,12 @@ The game's logic revolves around the decision-making process driven by the playe
 
 ## Images
 
-![Game Screen](assets/screenshot.jpg)
-*Caption: A screenshot of the blackjack game in action.*
+![A screenshot of the blackjack game in action](assets/screenshot.jpg)
+![A screenshot of the pin schemas](assets/pinschemas.jpg)
 
 ### Circuit Diagram
 
 ![Circuit Diagram](assets/circuit_diagram.jpg)
-*Caption: Circuit diagram illustrating the wiring of components.*
 
 ## Setup
 
